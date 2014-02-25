@@ -1,0 +1,7 @@
+# ignore
+*
+
+# Don't ignore
+!.gitignore
+!*.cs
+!*/*.cs
